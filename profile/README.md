@@ -5,8 +5,8 @@
 
 ---
 
-<h3 align="left"> The MiniBolt Guide is available on GitBook
-
+<h3 align="left"> The MiniBolt Guide is available on
+<br></br>
 https://minibolt.info
 
 </h3>
