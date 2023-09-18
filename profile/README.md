@@ -75,7 +75,3 @@ Based on [RaspiBolt guide v3](https://github.com/raspibolt/raspibolt), originall
 ---
 
 Created by [⚡2 FakTor⚡](https://twitter.com/twofaktor) member of the [Bitcoin Barcelona Community](https://bitcoinbarcelona.xyz/)
-
----
-
-This repository contains all sources and is used for Issue tracking.
