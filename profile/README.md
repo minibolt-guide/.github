@@ -43,7 +43,7 @@ Based on [RaspiBolt guide v3](https://github.com/raspibolt/raspibolt), originall
 
 ---
 
-### How build
+### How to build
 
 - YouTube list building MiniBolt in live with Alberto de Laboratorio Virtual Bitcoin (Spanish): [LINK](https://youtube.com/playlist?list=PL7-Q40ihLbmP9vXZGdQgEozQnFISzT8ms)
 
@@ -51,14 +51,12 @@ Based on [RaspiBolt guide v3](https://github.com/raspibolt/raspibolt), originall
 
 ### Roadmap
 
-- [X] Testnet bonus guide
-- [ ] BTCpay server bonus guide
+- [ ] Nostr bonus guide 
 - [ ] Mempool bonus guide
-- [ ] Cloudflared bonus guide
 
 [...]
 
-💡 You can see the extended roadmap by access to the [drawio file](https://github.com/minibolt-guide/extra-resources/blob/main/roadmap.drawio.png)
+💡 You can see the extended roadmap by accessing the [drawio file](https://github.com/minibolt-guide/minibolt/blob/main/resources/roadmap.drawio.png)
 
 ---
 
