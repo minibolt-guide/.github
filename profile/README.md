@@ -51,12 +51,7 @@ Based on [RaspiBolt guide v3](https://github.com/raspibolt/raspibolt), originall
 
 ### Roadmap
 
-- [ ] Nostr bonus guide 
-- [ ] Mempool bonus guide
-
-[...]
-
-💡 You can see the extended roadmap by accessing the [drawio file](https://github.com/minibolt-guide/minibolt/blob/main/resources/roadmap.drawio.png)
+You can see the extended roadmap by accessing the [roadmap on project section](https://github.com/orgs/minibolt-guide/projects/1)
 
 ---
 
