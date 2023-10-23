@@ -25,7 +25,7 @@
 
 ---
 
-<h3 align="left"> The MiniBolt Guide is available on</h3>
+### The MiniBolt Guide is available on
 
 [minibolt.info](https://minibolt.info)
 
