@@ -25,9 +25,9 @@
 
 ---
 
-### The MiniBolt Guide is available on
+### The MiniBolt guide is available on
 
-[minibolt.info](https://minibolt.info)
+--> [minibolt.info](https://minibolt.info)
 
 </h3>
 
@@ -61,11 +61,11 @@ You can see the extended roadmap by accessing the [roadmap on project section](h
 * Telegram Groups:
   * [Spanish](https://t.me/minibolt_es)
   * [English](https://t.me/minibolt)
+* Nostr channels:
+  * [Spanish](https://www.nostrchat.io/channel/aa64f2ead929ce8417f85bde7d22ebde13cc01ceb4e00145572437eb1ad46249)
+  * [English](https://www.nostrchat.io/channel/3bd633eaad12242572bfc5ba10d3e52b2c0e152f4207383858993c373d314015)
 * [GitHub discussions](https://github.com/minibolt-guide/minibolt/discussions)
 * [Amboss MiniBolters community](https://amboss.space/es/community/fee5ec65-5b9a-4305-856a-1eb1aff19c34)
-* Nostr channels:
-  * Spanish id: 3bd633eaad12242572bfc5ba10d3e52b2c0e152f4207383858993c373d314015
-  * English id: aa64f2ead929ce8417f85bde7d22ebde13cc01ceb4e00145572437eb1ad46249
 
 ---
 
