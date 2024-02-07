@@ -69,4 +69,4 @@ You can see the extended roadmap by accessing the [roadmap on project section](h
 
 ---
 
-Created by [⚡2 FakTor⚡](https://twitter.com/twofaktor) member of the [Bitcoin Barcelona Community](https://bitcoinbarcelona.xyz/)
+Created by [⚡2 FakTor⚡](https://twitter.com/twofaktor)
