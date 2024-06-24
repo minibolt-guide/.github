@@ -22,6 +22,7 @@
 ---
 
 ## MiniBolt
+<img src="https://github.com/minibolt-guide/minibolt/blob/main/resources/logos/logo_quater_minibolt_text.png" alt="MiniBolt logo"  align='right'  width="200" height="200"> 
 
 ---
 
