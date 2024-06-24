@@ -28,7 +28,7 @@
 
 ### The MiniBolt guide is available on
 
---> [minibolt.info](https://minibolt.info)
+-> [minibolt.info](https://minibolt.info) <-
 
 </h3>
 
