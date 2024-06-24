@@ -6,7 +6,6 @@
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/minibolt-guide/minibolt?label=latest%20release)](https://github.com/minibolt-guide/minibolt/releases)
 [![GitHub followers](https://img.shields.io/github/followers/minibolt-guide)](https://github.com/orgs/minibolt-guide/followers)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/r/minibolt/)
-[![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/minibolt?style=social)](https://www.reddit.com/r/minibolt/)
 
 [forks-shield]: https://img.shields.io/github/forks/minibolt-guide/minibolt.svg?style=for-the-badge
 [forks-url]: https://github.com/minibolt-guide/minibolt/network/members
