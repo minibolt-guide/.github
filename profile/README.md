@@ -69,4 +69,4 @@ You can see the extended roadmap by accessing the [roadmap on project section](h
 
 ---
 
-Created by [⚡2 FakTor⚡](https://twitter.com/twofaktor)
+Created by [⚡2 FakTor⚡](https://nosta.me/b17fccdf07ba2387f038b34426720cd68d112df923bca2bed8f8c309b7211155)
