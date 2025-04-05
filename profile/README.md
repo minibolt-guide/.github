@@ -44,7 +44,7 @@ Based on [RaspiBolt guide v3](https://github.com/raspibolt/raspibolt), originall
 
 ### How to build
 
-- YouTube list building MiniBolt in live with Alberto de Laboratorio Virtual Bitcoin (Spanish): [LINK](https://youtube.com/playlist?list=PL7-Q40ihLbmP9vXZGdQgEozQnFISzT8ms)
+- YouTube list building MiniBolt live with Albercoin of Laboratorio Virtual Bitcoin (Spanish) ~> [HERE](https://www.youtube.com/watch?v=hn3vRwyJO6M&list=PL7-Q40ihLbmP9vXZGdQgEozQnFISzT8ms)
 
 ---
 
@@ -56,7 +56,7 @@ You can see the extended roadmap by accessing the [roadmap on project section](h
 
 ### Community
 
-* Reddit sub: [r/minibolt](https://www.reddit.com/r/minibolt/)
+* [Linktr (FOSS)](https://linktr.minibolt.info)
 * Telegram Groups:
   * [Spanish](https://t.me/minibolt_es)
   * [English](https://t.me/minibolt)
@@ -64,7 +64,9 @@ You can see the extended roadmap by accessing the [roadmap on project section](h
   * [Spanish](https://www.nostrchat.io/channel/3bd633eaad12242572bfc5ba10d3e52b2c0e152f4207383858993c373d314015)
   * [English](https://www.nostrchat.io/channel/aa64f2ead929ce8417f85bde7d22ebde13cc01ceb4e00145572437eb1ad46249)
 * [GitHub discussions](https://github.com/minibolt-guide/minibolt/discussions)
-* [Amboss MiniBolters community](https://amboss.space/es/community/fee5ec65-5b9a-4305-856a-1eb1aff19c34)
+* [Amboss community](https://amboss.space/es/community/fee5ec65-5b9a-4305-856a-1eb1aff19c34)
+* [MiniBolter Badge](https://badges.page/a/naddr1qq9y66twd9px7mr5v4eqzxthwden5te0wpuhyctdd9jzuenfv96x5ctx9e3k7mgzyzchlnxlq7az8pls8ze5gfnjpntg6yfdly3meg47mruvxzdhyyg42qcyqqq82wgfsa98u)
+
 
 ---
 
