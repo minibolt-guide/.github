@@ -33,7 +33,7 @@ Based on [RaspiBolt guide v3](https://github.com/raspibolt/raspibolt), originall
 
 ### Roadmap
 
-You can see the extended roadmap by accessing the [roadmap on project section](https://github.com/orgs/minibolt-guide/projects/1)
+You can see the extended roadmap by accessing the [roadmap on the project section](https://github.com/orgs/minibolt-guide/projects/1)
 
 ---
 
@@ -47,8 +47,8 @@ You can see the extended roadmap by accessing the [roadmap on project section](h
   * [Spanish](https://www.nostrchat.io/channel/3bd633eaad12242572bfc5ba10d3e52b2c0e152f4207383858993c373d314015)
   * [English](https://www.nostrchat.io/channel/aa64f2ead929ce8417f85bde7d22ebde13cc01ceb4e00145572437eb1ad46249)
 * [GitHub discussions](https://github.com/minibolt-guide/minibolt/discussions)
-* [Amboss community](https://amboss.space/es/community/fee5ec65-5b9a-4305-856a-1eb1aff19c34)
-* [MiniBolter Badge](https://badges.page/a/naddr1qq9y66twd9px7mr5v4eqzxthwden5te0wpuhyctdd9jzuenfv96x5ctx9e3k7mgzyzchlnxlq7az8pls8ze5gfnjpntg6yfdly3meg47mruvxzdhyyg42qcyqqq82wgfsa98u)
+* [Amboss community](https://amboss.space/community/fee5ec65-5b9a-4305-856a-1eb1aff19c34)
+* [MiniBolter Badge](https://ditto.pub/naddr1qvzqqqr48ypzpvtlen0s0w3rslcr3v6yyeeqe45dzykljgau52ld37xrpxmjzy24qq9y66twd9px7mr5v4eqgfesyg)
 
 
 ---
